@@ -3,7 +3,7 @@
 ### Classes from previous project transformed to functions.
 Web:
 
-[https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Deployment/](https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Deployment/)
+[https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Functional-Hooks/](https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Functional-Hooks/)
 
 
 Font: 
@@ -24,3 +24,6 @@ gh-pages
    "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
+
+
+npm run deploy
