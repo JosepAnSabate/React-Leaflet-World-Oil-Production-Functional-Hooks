@@ -25,8 +25,8 @@ const OilMap = ({countries}) => {
         
         layer.bindPopup(`
             <h4 class="popup-title">${name}</h4> 
+            <hr>
             <p class="popup-quant">${confirmedText} Mbb/Y</p>
-            
             <p class="popup-quant">${dailyP} Mbb/D</p>
             `);
     }
