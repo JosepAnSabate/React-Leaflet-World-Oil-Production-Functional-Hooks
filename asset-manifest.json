@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/css/main.5e68ce4e.css",
+    "main.css": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/css/main.54285a0c.css",
     "main.js": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/js/main.353f2ed9.js",
     "static/js/787.a25e5809.chunk.js": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/js/787.a25e5809.chunk.js",
     "index.html": "/React-Leaflet-World-Oil-Production-Functional-Hooks/index.html",
-    "main.5e68ce4e.css.map": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/css/main.5e68ce4e.css.map",
+    "main.54285a0c.css.map": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/css/main.54285a0c.css.map",
     "main.353f2ed9.js.map": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/js/main.353f2ed9.js.map",
     "787.a25e5809.chunk.js.map": "/React-Leaflet-World-Oil-Production-Functional-Hooks/static/js/787.a25e5809.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e68ce4e.css",
+    "static/css/main.54285a0c.css",
     "static/js/main.353f2ed9.js"
   ]
 }
