@@ -35,7 +35,7 @@
   background-color: white;
   border: 2px solid black;
   padding: 5px;
-  margin: 12px;
+  margin: 20px;
   font-size: 18px;
 }
 .center-text{
@@ -48,6 +48,10 @@
 }
 .world-info-legend{
   margin-bottom: 15px;
+}
+
+.title-info-legend{
+  text-align: center;
 }
 
 .text-info-legend{
